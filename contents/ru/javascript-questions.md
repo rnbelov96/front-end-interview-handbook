@@ -199,6 +199,7 @@ console.log(foo == undefined); // true. Неправильно, не испол�
 
 - Конфиденциальность данных / эмуляция скрытых методов при помощи замыканий. Обычно используется в [модульном паттерне](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#modulepatternjavascript).
 - [Частичное применение функций или каррирование](https://medium.com/javascript-scene/curry-or-partial-application-8150044c78b8#.l4b6l1i3x).
+- https://learn.javascript.ru/closure
 
 ###### Ссылки
 
