@@ -374,6 +374,7 @@ console.log(add.apply(null, [1, 2])); // 3
 
 - https://www.quirksmode.org/blog/archives/2005/06/three_javascrip_1.html
 - https://github.com/h5bp/html5-boilerplate/wiki/Script-Loading-Techniques#documentwrite-script-tag
+- https://learn.javascript.ru/modifying-document#neskolko-slov-o-document-write
 
 [[↑] Наверх](#Содержание)
 
