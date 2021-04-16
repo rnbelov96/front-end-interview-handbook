@@ -141,6 +141,7 @@ console.log(foo); // undefined
 
 - http://lucybain.com/blog/2014/immediately-invoked-function-expression/
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/void
+- https://learn.javascript.ru/closure#iife
 
 [[↑] Наверх](#Содержание)
 
